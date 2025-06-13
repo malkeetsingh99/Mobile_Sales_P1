@@ -17,7 +17,6 @@ Power BI
 
 DAX
 
-📷 Screenshot
 
 🚀 How to Use
 Open the Power BI report file (.pbix).
